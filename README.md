@@ -50,6 +50,7 @@ return 0;
 }
 
 
+
 ###latihan2.cpp :  Tentukan modus dari n buah bilangan bulat, dimana besar datanya antara 1 sampai dengan 10.
 
 **Alur algoritma**
@@ -134,6 +135,7 @@ cin >> run;
 cout << run;
 return 0;
 }
+
 
 ###latihan3.cpp : Buatlah algoritma dan program untuk mengalikan dua buah matriks. 
 
@@ -264,6 +266,7 @@ return 0;
 }
 
 
+
 ###latihan4.cpp :  Buatlah algortima dan program untuk menghasilkan transpose suatu matriks.
 
 **Alur algoritma**
@@ -327,3 +330,4 @@ cout<<endl<<endl;
 system("PAUSE");
 return EXIT_SUCCESS;
 }
+
